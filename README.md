@@ -1,1 +1,1 @@
-
+Based on input file on the format shown in buildrail, read the graph, check if its cyclic, make a topological sort of the DAG and plan the project. Find earliest and latest start/finish of each task. 
